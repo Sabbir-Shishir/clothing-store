@@ -22,6 +22,8 @@
  /* ! Navbar Section */
 
  .navbar {
+     position: sticky;
+     top: 0;
      background-color: #2b2d42;
      color: white;
      display: flex;
@@ -80,8 +82,8 @@
  }
 
  .item img {
-    width: 100%;
-    border-radius: 2px 2px 0 0;
+     width: 100%;
+     border-radius: 2px 2px 0 0;
  }
 
  .details {
@@ -133,11 +135,11 @@
  }
 
  .checkout {
-    background-color: #0ead69;
+     background-color: #0ead69;
  }
 
  .removeAll {
-    background-color: #c81d25;
+     background-color: #c81d25;
  }
 
  .bi-x-lg {
