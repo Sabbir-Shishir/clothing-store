@@ -19,7 +19,7 @@ The shopping cart application has the following features:
 
 To run the shopping cart application on your local machine, follow these steps:
 
-- Clone the repository using
+- Clone the repository using :
 ```bash
 git clone https://github.com/Sabbir-Shishir/clothing-store.git
 ```
