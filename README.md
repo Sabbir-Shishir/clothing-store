@@ -2,6 +2,11 @@
 
 This is a simple shopping cart project coded in JavaScript.
 
+
+## Live Site Link
+
+[Click here to visit live site](https://clothing-cart.netlify.app/)
+
 ## Project Overview
 
 The project is a web-based shopping cart application that allows users to add products to their cart, view their cart, remove items from their cart. The application is built using HTML, CSS, and JavaScript.
@@ -26,6 +31,3 @@ git clone https://github.com/Sabbir-Shishir/clothing-store.git
 
 - Open the `index.html` file in your web browser.
 
-## Live Site Link
-
-[Click here to visit live site](https://clothing-cart.netlify.app/)
